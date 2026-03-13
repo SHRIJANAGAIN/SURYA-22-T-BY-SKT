@@ -71,6 +71,12 @@
 
 
 <p align="center">
+  <img src="https://img.shields.io/badge/STATUS-SYSTEM+ONLINE-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPTIMIZED-ST--X+SERIES-orange?style=for-the-badge" />
+</p>
+
+
+<p align="center">
   <a href="https://huggingface.co/Shrijanagain">
     <img src="https://img.shields.io/badge/CLICK%20HERE-VISIT%20MODEL-orange?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=blue" alt="Model Link" />
   </a>
