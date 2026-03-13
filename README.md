@@ -10,7 +10,7 @@
 
 ---
 
-### ⚡ THE APEX OF PERFORMANCE: SKT SURYA (22T)
+### ⚡ THE APEX OF PERFORMANCE: SKT SURYA (22 TRILLON)
 *The Surya series represents a major leap in balancing massive scale with localized precision.*
 
 </div>
