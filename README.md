@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://huggingface.co/Shrijanagain/SKT_OMNI_SUPREME/resolve/main/Logo.jpg" width="300" style="border-radius: 20px; border: 2px solid #3b82f6;">
+<img src="https://github.com/SHRIJANAGAIN/SURYA-22-T-BY-SKT/blob/main/Logo.jpg" width="300" style="border-radius: 20px; border: 2px solid #3b82f6;">
 
 # 💠 SKT AI 💠
 **SKT AI is a cutting-edge research and development hub dedicated to pushing the boundaries of machine learning and neural architecture. Led by Shrijan Kumar Tiwari, the lab focuses on creating high-performance models that are faster, smarter, and more efficient.**
