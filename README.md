@@ -69,9 +69,6 @@
 
 ### 🔗 EXPLORE THE MODELS
 
-<a href="https://huggingface.co/Shrijanagain">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=🚀+CLICK+HERE+TO+VIEW+MODELS;🔗+REDIRECTING+TO+HUGGINGFACE;✨+CHECK+OUT+SHRIJANAGAIN" alt="Typing SVG" />
-</a>
 
 <p align="center">
   <a href="https://huggingface.co/Shrijanagain">
